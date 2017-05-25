@@ -1,0 +1,72 @@
+.navbar-header {
+	text-transform: capitalize;
+}
+
+.navbar.transparent.navbar-default .navbar-inner {
+   background: rgba(0,0,0,0.4);
+}
+
+.background-img {
+	background-image: url(background.png);
+}
+
+.nav-top {
+	background-color: white;
+	opacity: 0.8;
+	display: inline-block;
+	width: 100%;
+}
+
+.bottom-nav {
+	background-color: hotpink;
+	margin: 0;
+}
+
+.bottom-nav > ul > li {
+	color: white;
+}
+
+.bottom-nav a {
+	color: white;
+}
+
+.bottom-nav > ul:hover {
+	background-color: blue;
+}
+
+.banner-caption {
+	text-align: center;
+	color: white;
+}
+
+.navbar-brand {
+	text-transform: uppercase;
+	color: black;
+}
+
+.navbar-header {
+	color: black;
+}
+
+/*.nav-top button {
+	background-color: black;
+}*/
+
+.icon-bar {
+	background-color: black;
+}
+ 
+.affix {
+	top: 0;
+	width: 100%;
+	left: 0;
+	right: 0;
+}
+
+body {
+	height: 100000px;
+}
+
+.navbar > .bottom-nav {
+	margin-bottom: 0;
+}
