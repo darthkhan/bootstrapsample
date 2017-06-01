@@ -22,3 +22,10 @@ Exercise 8 (Desktop) git repository
 midnight rainbow
 
 New Folder in desktop
+
+
+to clear white space:
+
+html, body {
+	overflow: hidden;
+}
