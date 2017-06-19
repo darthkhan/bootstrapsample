@@ -1,0 +1,16 @@
+products = [
+[
+	"Name" : "new",
+	"Image" : "",
+	"Description" : "fun"
+],
+[
+	"Name" : "newnew",
+	"Image" : "",
+	"Description" : "funner"
+],
+[
+	"Name" : "new2",
+	"Image" : "",
+	"Description" : "funnest"
+]]
