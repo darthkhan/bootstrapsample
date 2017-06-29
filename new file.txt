@@ -1,0 +1,33 @@
+slider, gallery
+javascript
+
+CAPSTONE1
+own website concept/theme
+atleast 4 pages (home + 3 sub pages)
+should contain
+header/banner
+navigation
+content
+footer
+Responsive design
+
+
+11
+markup                  40%
+responsive design  30%
+content flow           20%
+design/ui                10%
+
+Exercise 8 (Desktop) git repository
+midnight rainbow
+
+New Folder in desktop
+midnight rainbow
+http://www.colourlovers.com/palette/4500252/Midnight_Rainbow
+
+
+to clear white space:
+
+html, body {
+	overflow: hidden;
+}
